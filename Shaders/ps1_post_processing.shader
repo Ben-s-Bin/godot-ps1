@@ -1,3 +1,5 @@
+// PS1 shader by Ben Forster for Godot 4.x
+
 shader_type spatial;
 render_mode unshaded, shadows_disabled, depth_test_disabled, depth_draw_never;
 
