@@ -1,4 +1,4 @@
-# godot-ps1
+# Godot PS1
 A collection of PS1 scripts for Godot 4.x (GDScript).
 
 This repository contains:
